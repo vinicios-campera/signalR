@@ -1,2 +1,2 @@
 # signalR
-Repositorio contendo exemplo de uso da library SignalR
+Repositorio com projeto para chamada de senhas usando SignalR
